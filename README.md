@@ -4,4 +4,4 @@ This code addresses images with missing or corrupted pixels, such as the example
 The process involves employing RBF regression to predict and restore the corrupted pixels.
 
 
-![Alt text](Amazing_jellyfish_corrupted_by_text.tif)
+![Alt text](Image_inpainting.jpg)
